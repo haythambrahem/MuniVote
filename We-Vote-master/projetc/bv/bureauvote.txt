@@ -1,0 +1,6 @@
+1 3 tunis tunis tunis 23 500 20 
+2 3 tunis tunis tunis 23 500 20 
+3 3 tunis tunis tunis 23 500 20 
+4 3 tunis tunis tunis 23 500 20 
+6 4 tunis tunis tunis 3 2 3 
+7 34 tt tt tt 3 6 6  
